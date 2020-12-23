@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.icynetwork.top</id>
-    <title>銀河綠</title>
-    <updated>2020-12-23T04:08:59.998Z</updated>
+    <title>銀河錄</title>
+    <updated>2020-12-23T04:21:04.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.icynetwork.top"/>
     <link rel="self" href="https://blog.icynetwork.top/atom.xml"/>
     <logo>https://blog.icynetwork.top/images/avatar.png</logo>
     <icon>https://blog.icynetwork.top/favicon.ico</icon>
-    <rights>All rights reserved 2020, 銀河綠</rights>
+    <rights>All rights reserved 2020, 銀河錄</rights>
     <entry>
         <title type="html"><![CDATA[Hello ]]></title>
         <id>https://blog.icynetwork.top/post/hello-gridea/</id>
