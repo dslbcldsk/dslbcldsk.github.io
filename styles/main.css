@@ -2460,7 +2460,7 @@ a {
 .index-title a {
   color: #FFF;
   transition: all 0.5s;
-  font-family: "kaiti", "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
+  font-family: "kaiti", "宋体", "黑體-繁", "微軟正黑體", "Helvetica", "Arial", "LiHei Pro", sans-serif;
 }
 .index-title a:hover {
   color: #fe6061;
